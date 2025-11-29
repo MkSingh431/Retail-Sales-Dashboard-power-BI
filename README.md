@@ -1,9 +1,7 @@
-
-
-
-
 # 📊 Retail Sales Dashboard (Excel / Power BI)
-
+![image text](https://github.com/MkSingh431/Retail-Sales-Dashboard-power-BI/blob/main/Screenshot/Screenshot%202025-11-29%20163235.png)
+![image text](https://github.com/MkSingh431/Retail-Sales-Dashboard-power-BI/blob/main/Screenshot/Screenshot%202025-11-29%20163249.png)
+![image text](https://github.com/MkSingh431/Retail-Sales-Dashboard-power-BI/blob/main/Screenshot/Screenshot%202025-11-29%20163302.png)
 ## Problems and Background
 The retail industry thrives on data, yet many organizations fail to fully leverage it for decision-making.  
 Our company’s historical sales data presents an opportunity to uncover insights that can improve revenue growth, cost management, and customer retention.  
@@ -166,5 +164,8 @@ Key challenges such as returns, discounting, and shipping costs must be tackled 
 Customer retention emerges as a critical growth lever, as dependence on a small customer base creates risk.  
 
 By equipping stakeholders with interactive dashboards and clear insights, the business is better positioned to make data-driven decisions that enhance profitability, improve customer experience, and streamline operations.  
-
+## About Me
+[Email](mks465261@gmail.com)
+[Motilal Das- Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254/)
+[Portfolio-Website- Motilal Das ](https://portfolio-website-phi-six-62.vercel.app/)
 
