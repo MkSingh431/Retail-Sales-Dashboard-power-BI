@@ -165,7 +165,7 @@ Customer retention emerges as a critical growth lever, as dependence on a small 
 
 By equipping stakeholders with interactive dashboards and clear insights, the business is better positioned to make data-driven decisions that enhance profitability, improve customer experience, and streamline operations.  
 ## About Me
-[Email](mks465261@gmail.com)
-[Motilal Das- Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254/)
+[Email](mks465261@gmail.com)\
+[Motilal Das- Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254/)\
 [Portfolio-Website- Motilal Das ](https://portfolio-website-phi-six-62.vercel.app/)
 
