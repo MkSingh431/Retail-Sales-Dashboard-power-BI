@@ -16,6 +16,7 @@ Our company’s historical sales data presents an opportunity to uncover insight
 The problem is not just analyzing sales figures, but transforming them into actionable insights that guide leadership, sales managers, finance teams, and marketing toward smarter, data-driven strategies.  
 
 ---
+
 <details>
   <summary>📊 Overview </summary>
 
